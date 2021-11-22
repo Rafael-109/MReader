@@ -1,0 +1,6 @@
+{
+	"appId": "com.rafaelcarrizalez.lectordemanga",
+	"appName": "historietas",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
