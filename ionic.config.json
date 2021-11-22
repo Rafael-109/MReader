@@ -1,7 +1,0 @@
-{
-  "name": "historietas",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
