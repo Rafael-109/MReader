@@ -8,7 +8,7 @@ export class ConnectionBackendService {
   URL_API: string;
 
   constructor() {
-    this.URL_API = "https://recr.com/apis/api-historieta/app.php";
+    this.URL_API = "https://rafaelbastidas.com/apis/api-historieta/app.php";
   }
 
   async requestBackend(data){
